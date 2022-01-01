@@ -1,9 +1,17 @@
 
 
+.shape{
 
+background: rgba(0,0,0,.3);
 
+border: 20px solid green;
+padding: 5px;
+margin: 10px;
+
+}
 .background{
-    background-color: rgba(173, 70, 56, 0.212);
+    background-color: rgba(236, 125, 111, 0.212);
+ 
 }
 .gallery{
 
@@ -89,13 +97,13 @@ padding: 0 12px ;
  }
 
  .model .open svg{
- position:fixed;
- top: 10px;
- right: 10px;
- height: 2rem;
- width: 2rem;
- padding: 5px;
-background-color:rgba(0, 0, 0, 0.4);
-color:#ffffff;
-cursor: pointer;
- }
+    position:fixed;
+    top: 10px;
+    right: 10px;
+    height: 2rem;
+    width: 2rem;
+    padding: 5px;
+   background-color:rgba(0, 0, 0, 0.4);
+   color:#ffffff;
+   cursor: pointer;
+    }

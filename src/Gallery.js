@@ -40,15 +40,16 @@ console.log("maaaaaa",data1.data0);
 
 {data1.data0.map((item, index) => {
     return(
-    
+        <div className="shape">
         <div className="pics" key={index} onClick={()=>getImage(item.imgsrc) }>
         <img src={item.imgsrc} style={{width:'100%'}}/>
-        
+        </div>
         
         </div>
     )}
     
     )}
+  
 
 </div>
 
