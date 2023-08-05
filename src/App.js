@@ -6,7 +6,7 @@ function App() {
   return (
   <div className="background">
    <h1 style={{textAlign: 'center'}}>allache abdelmalek </h1>
- <h1 style={{textAlign: 'center'}}>Gallery of my work and deploma  "😎" </h1>
+ <h1 style={{textAlign: 'center'}}>Gallery of my work on cctv and deplomas  "😎" </h1>
  
 
   <Gallery/>
