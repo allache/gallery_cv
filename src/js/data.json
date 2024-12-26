@@ -44,6 +44,11 @@
     },
     
     {
+        "id":14,
+        "imgsrc":"img/img18.JPG"
+    },
+    
+    {
         "id":19,
         "imgsrc":"img/img19.JPG"
     },
@@ -59,7 +64,16 @@
         "id":18,
         "imgsrc":"img/img3.JPG"
     }
-    
+    {
+        "id":11,
+        "imgsrc":"img/img11.JPG"
+    },
+    {
+        "id":12,
+        "imgsrc":"img/img12.JPG"
+    }
+
+
 
 
 
